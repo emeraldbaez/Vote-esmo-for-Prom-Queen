@@ -1,0 +1,32 @@
+.header{
+    background-color: red;
+    padding:20px;
+    text-align: center;
+}
+.img {
+    display:flex;
+    justify-content:space-around;
+    padding:30px;
+    background-color:pink;
+    border:5px dotted white;
+    }
+img{
+    width:200px;
+    height:200px;
+    border: 5px dotted white;
+    }
+body{
+        background-image: url("https://i.pinimg.com/originals/b5/ac/3f/b5ac3fa5da5bd3196a832463336e89d3.jpg");
+    }
+.info{ 
+    background-color: red;
+    padding:30px;
+    background-color:red;
+    }
+ul{ 
+    font-size:20px;
+    }
+.button{ 
+    text-align: center;}
+    
+    
